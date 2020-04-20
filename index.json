@@ -11,7 +11,7 @@
 	"title": "Releases",
 	"tags": [],
 	"description": "",
-	"content": "Sources All of the sources for release versions of the Lumina desktop and it\u0026rsquo;s suite of utilities are available for download on the GitHub repository.\nProject Trident Project Trident is a desktop distribution of Void Linux that is created and maintained by the same authors of the Lumina Desktop, and is a quick and easy way to try out the Lumina Desktop on a Linux-based operating system.\nPre-built Packages Pre-built packages of the Lumina desktop and it\u0026rsquo;s utilities are available on many other operating systems. While we cannot list them all, the ones that we know of are:\n BSD Operating Systems  Project Trident TrueOS FreeBSD OpenBSD DragonflyBSD   Linux Distributions  Debian Gentoo Arch Probably a lot of others\u0026hellip;    "
+	"content": "Sources All of the sources for release versions of the Lumina desktop and it\u0026rsquo;s suite of utilities are available for download on the GitHub repository.\nProject Trident Project Trident is a desktop distribution of Void Linux that is created and maintained by the same authors of the Lumina Desktop, and is a quick and easy way to try out the Lumina Desktop on a Linux-based operating system.\nPre-built Packages Pre-built packages of the Lumina desktop and it\u0026rsquo;s utilities are available on many other operating systems. While we cannot list them all, the ones that we know of are:\n BSD Operating Systems  TrueOS FreeBSD OpenBSD DragonflyBSD   Linux Distributions  Project Trident Debian Gentoo Arch Probably a lot of others\u0026hellip;    "
 },
 {
 	"uri": "https://lumina-desktop.github.io/community/",
